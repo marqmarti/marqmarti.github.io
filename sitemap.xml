@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://marqmarti.github.io/</loc>
+    <lastmod>2016-02-19T01:03:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/first-post-in-hugo/</loc>
+    <lastmod>2016-02-19T01:03:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/second-post-in-hugo/</loc>
+    <lastmod>2016-02-19T01:03:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/third-post-in-hugo/</loc>
+    <lastmod>2016-02-19T01:03:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/about2/</loc>
+    <lastmod>2016-02-19T01:01:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/about/</loc>
+    <lastmod>2016-02-19T01:01:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://marqmarti.github.io/experiodista/</loc>
+    <lastmod>2016-02-01T01:01:13+01:00</lastmod>
+  </url>
+  
+</urlset>
